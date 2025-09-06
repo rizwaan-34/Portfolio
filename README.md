@@ -3,14 +3,6 @@
 
 A personal portfolio website built to showcase my projects, skills, achievements, and resume. Built using modern web technologies with a responsive layout optimized for both desktop and mobile views.
 
-## 🚀 Live Demo
-
-👉 [Visit My Portfolio](https://ravishetty-portfolio.netlify.app/)
-
-## 📸 Screenshots
-
-![Desktop View](./assets/images/projects/portfolio2.png)
-
 
 ## 🛠️ Tech Stack
 
@@ -54,12 +46,5 @@ A personal portfolio website built to showcase my projects, skills, achievements
 - **Projects** – Portfolio of key projects with links
 - **Resume** – Downloadable CV
 - **Contact** – Reach out via email or form
-
-## 🧑‍💻 Author
-
-**Ravi Shetty**  
-📧 [ravishetty05082@example.com]  
-🌐 [LinkedIn](https://www.linkedin.com/in/ravi-m-shetty/) • [GitHub](https://github.com/Ravishetty07)
-
 
 
